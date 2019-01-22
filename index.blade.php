@@ -1,4 +1,4 @@
-<!-- app/views/pegawai/index.blade.php -->
+<!-- app/views/kota/index.blade.php -->
 @extends('theme.default')
 @section('content')
 
