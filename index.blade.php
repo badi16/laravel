@@ -1,4 +1,5 @@
-<!-- app/views/pegawai/index.blade.php -->
+<!-- app/views/kota/index.blade.php -->
+<?php //telah terjadi perubahan // ?>
 @extends('theme.default')
 @section('content')
 
