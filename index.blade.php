@@ -1,5 +1,8 @@
 <!-- app/views/kota/index.blade.php -->
+<<<<<<< HEAD
 <?php //telah terjadi perubahan // ?>
+=======
+>>>>>>> 9fc8cde2c191769af53db972c197638a575abf18
 @extends('theme.default')
 @section('content')
 
